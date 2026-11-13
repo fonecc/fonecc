@@ -21,7 +21,7 @@ I'm a full-stack developer. I develop my own Web3 and AI products, writing the s
   <a href="https://fone.cc"><img src="https://img.shields.io/badge/fone.cc-2563EB?style=flat-square&amp;logoColor=white" alt="fone.cc" /></a>
   <a href="https://x.com/0xFone"><img src="https://img.shields.io/badge/X-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/fonecc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NmIyIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMS4wNiA0OC43M2gxOC4xMVYxMDdIMjEuMDZ6bTkuMDYtMjlhMTAuNSAxMC41IDAgMTEtMTAuNSAxMC40OSAxMC41IDEwLjUgMCAwMTEwLjUtMTAuNDlNNTAuNTMgNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV2MzJIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
-  <a href="https://t.me/fone_cc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/fonecc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
 </p>
 
 ## Products I developed
@@ -38,7 +38,7 @@ I'm a full-stack developer. I develop my own Web3 and AI products, writing the s
 
 These workflows are implemented, and I can walk through them in local demos with test assets. MusicFlow uses fixed sample audio in its demo. Agent Wallet Guard uses a Node agent under an existing policy; revoking permission leaves completed payments unchanged. Deployment to a customer's environment needs its own configuration and validation.
 
-For a product demo, purchase enquiry or custom integration, tell me what you need on [LinkedIn](https://www.linkedin.com/in/fonecc/) or [Telegram](https://t.me/fone_cc). A short text description is enough to start.
+For a product demo, purchase enquiry or custom integration, tell me what you need on [LinkedIn](https://www.linkedin.com/in/fonecc/) or [Telegram](https://t.me/fonecc). A short text description is enough to start.
 
 I share product walkthroughs and engineering notes on [X](https://x.com/0xFone). My other repositories include learning exercises and forks. Upstream components and my own changes are identified in the relevant project documentation.
 
