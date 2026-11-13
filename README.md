@@ -38,7 +38,7 @@ I'm a full-stack developer. I develop my own Web3 and AI products, writing the s
 
 These workflows are implemented, and I can walk through them in local demos with test assets. MusicFlow uses fixed sample audio in its demo. Agent Wallet Guard uses a Node agent under an existing policy; revoking permission leaves completed payments unchanged. Deployment to a customer's environment needs its own configuration and validation.
 
-For a product demo, purchase enquiry or custom integration, tell me what you need on [LinkedIn](https://www.linkedin.com/in/%E6%B5%A9%E6%9D%B0-%E7%BD%97-99a41a367/) or [Telegram](https://t.me/fone_cc). A short text description is enough to start.
+For a product demo, purchase enquiry or custom integration, tell me what you need on [LinkedIn](https://www.linkedin.com/in/fonecc/) or [Telegram](https://t.me/fone_cc). A short text description is enough to start.
 
 I share product walkthroughs and engineering notes on [X](https://x.com/0xFone). My other repositories include learning exercises and forks. Upstream components and my own changes are identified in the relevant project documentation.
 
